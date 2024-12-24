@@ -1,0 +1,12 @@
+{
+  "replace": true,
+  "order": 0,
+  "enabled": true,
+  "origins": [
+    "orudo_origins:evolved_human",
+    "orudo_origins:warped_human"
+  ],
+  "allow_random": false,
+  "allow_random_unchoosable": false,
+  "hidden": false
+}

@@ -1,0 +1,11 @@
+{
+  "name":"Bad mutations",
+  "description":"The warped are destined to suffer from side effects of the artifacts. They have 9 hearts of hp.",
+  "type": "origins:attribute",
+  "modifier": {
+    "name": "Fragile health reduction",
+    "attribute": "minecraft:generic.max_health",
+    "value": -2.0,
+    "operation": "addition"
+  }
+}

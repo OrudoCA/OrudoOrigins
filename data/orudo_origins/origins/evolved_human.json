@@ -1,0 +1,10 @@
+{
+	"name":"Evolved human",
+	"loading_priority": 1,
+	"powers": ["orudo_origins:weak_magic", "orudo_origins:more_reach"],
+	"icon": "minecraft:player_head",
+  "description": "An almost regular human, less skilled in magic and well-adapted to the End affliction.",
+	"order": 0,
+	"impact": 2,
+	"unchoosable": false
+}

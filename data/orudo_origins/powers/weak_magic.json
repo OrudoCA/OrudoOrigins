@@ -1,0 +1,29 @@
+{
+  "type": "origins:restrict_armor",
+  "name":"Weak magic",
+  "description":"Many years of End corruption have withered the world's magic. Humans are unable to use levels of Protection that are higher than 2.",
+  "head": {
+    "type": "origins:enchantment",
+    "enchantment": "minecraft:protection",
+    "comparison": ">=",
+    "compare_to": 3
+  },
+  "chest": {
+    "type": "origins:enchantment",
+    "enchantment": "minecraft:protection",
+    "comparison": ">=",
+    "compare_to": 3
+  },
+  "legs": {
+    "type": "origins:enchantment",
+    "enchantment": "minecraft:protection",
+    "comparison": ">=",
+    "compare_to": 3
+  },
+  "feet": {
+    "type": "origins:enchantment",
+    "enchantment": "minecraft:protection",
+    "comparison": ">=",
+    "compare_to": 3
+  }
+}

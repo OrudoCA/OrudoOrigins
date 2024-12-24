@@ -1,0 +1,19 @@
+{
+  "name":"Страшное ебало",
+  "description":"Villagers refuse to trade with the warped",
+  "type": "origins:prevent_entity_use",
+  "bientity_action": {
+    "type": "origins:actor_action",
+    "action": {
+      "type": "origins:execute_command",
+      "command": "title @s actionbar {\"text\":\"\u041f\u043e\u0448\u0435\u043b \u0442\u044b \u043d\u0430\u0445\u0443\u0439, \u0438\u0441\u043a\u0430\u0436\u0435\u043d\u043d\u044b\u0439\",\"color\":\"dark_red\"}"
+    }
+  },
+  "bientity_condition": {
+    "type": "origins:target_condition",
+    "condition": {
+      "type": "origins:entity_type",
+      "entity_type": "minecraft:villager"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "origins:attribute",
+  "name":"Extra reach",
+  "description":"Humans had to adapt to fighting the endermen. Humans have extra reach.",
+  "modifiers": [
+    {
+      "name": "Extra Reach block reach",
+      "attribute": "reach-entity-attributes:reach",
+      "value": 1.5,
+      "operation": "addition"
+    }
+  ]
+}
