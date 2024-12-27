@@ -1,0 +1,10 @@
+{
+  "name":"Плохое пищеварение",
+  "description":"На Искаженных не действует эффект регенерации.",
+  "type": "origins:effect_immunity",
+  "hidden": true,
+  "effects": [
+      "minecraft:regeneration",
+      "vinery:jellie"
+  ]
+}

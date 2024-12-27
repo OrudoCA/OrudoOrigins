@@ -1,9 +1,9 @@
 {
-	"name":"Warped human",
+	"name":"Искаженный",
 	"loading_priority": 1,
-	"powers": ["orudo_origins:horus_teleport", "orudo_origins:no_villagers", "orudo_origins:less_hp"],
+	"powers": ["orudo_origins:no_villagers","orudo_origins:horus_teleport" , "orudo_origins:less_hp", "orudo_origins:stronger_magic","orudo_origins:prot4tooltip"],
 	"icon": "minecraft:player_head",
-  "description": "A descendant of those corrupted by the artifacts.",
+  "description": "Потомок первых одержимых артефактами Энда.",
 	"order": 1,
 	"impact": 3,
 	"unchoosable": false

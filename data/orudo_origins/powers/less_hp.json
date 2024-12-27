@@ -1,6 +1,6 @@
 {
-  "name":"Bad mutations",
-  "description":"The warped are destined to suffer from side effects of the artifacts. They have 9 hearts of hp.",
+  "name":"Мутации",
+  "description":"Искаженные страдают от разрушительного воздействия Энда. Они имеют только 9 сердец хп и на них не работает эффект регенерации.",
   "type": "origins:attribute",
   "modifier": {
     "name": "Fragile health reduction",

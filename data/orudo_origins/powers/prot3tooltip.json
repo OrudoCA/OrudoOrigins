@@ -1,0 +1,12 @@
+{
+  "type": "origins:tooltip",
+  "hidden": true,
+  "item_condition": {
+      "type": "origins:enchantment",
+      "enchantment": "minecraft:protection",
+      "comparison": ">=",
+      "compare_to": 3
+  },
+  "text": {"text":"Моя магия слишком слаба.",
+  "color": "red"}
+}

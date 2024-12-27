@@ -1,7 +1,7 @@
 {
   "type": "origins:attribute",
-  "name":"Extra reach",
-  "description":"Humans had to adapt to fighting the endermen. Humans have extra reach.",
+  "name":"Ловкие руки",
+  "description":"Человечество адаптировались к реалиям нового мира.",
   "modifiers": [
     {
       "name": "Extra Reach block reach",

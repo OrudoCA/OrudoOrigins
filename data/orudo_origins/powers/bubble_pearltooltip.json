@@ -1,0 +1,12 @@
+{
+  "type": "origins:tooltip",
+  "hidden": true,
+  "item_condition": {
+      "type": "origins:ingredient",
+      "ingredient": {
+        "item": "endermanoverhaul:bubble_pearl"
+    }
+  },
+  "text":{"text":"Я не хочу использовать эту гадость.",
+"color": "red"}
+}

@@ -1,6 +1,6 @@
 {
   "name":"Страшное ебало",
-  "description":"Villagers refuse to trade with the warped",
+  "description":"Жители отказываются торговать с Искаженными.",
   "type": "origins:prevent_entity_use",
   "bientity_action": {
     "type": "origins:actor_action",

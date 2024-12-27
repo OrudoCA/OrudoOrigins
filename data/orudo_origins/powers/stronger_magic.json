@@ -1,29 +1,29 @@
 {
   "type": "origins:restrict_armor",
   "name":"Слабая магия",
-  "description":"Взаимодействие с Эндом плохо повлияло на магию Людей. Они могут использовать защиту вплоть до второй.",
+  "description":"Взаимодействие с Эндом благотворно повлияло на магию Искаженных. Они могут использовать защиту вплоть до третьей.",
   "head": {
     "type": "origins:enchantment",
     "enchantment": "minecraft:protection",
     "comparison": ">=",
-    "compare_to": 3
+    "compare_to": 4
   },
   "chest": {
     "type": "origins:enchantment",
     "enchantment": "minecraft:protection",
     "comparison": ">=",
-    "compare_to": 3
+    "compare_to": 4
   },
   "legs": {
     "type": "origins:enchantment",
     "enchantment": "minecraft:protection",
     "comparison": ">=",
-    "compare_to": 3
+    "compare_to": 4
   },
   "feet": {
     "type": "origins:enchantment",
     "enchantment": "minecraft:protection",
     "comparison": ">=",
-    "compare_to": 3
+    "compare_to": 4
   }
 }

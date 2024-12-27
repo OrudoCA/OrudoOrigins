@@ -1,15 +1,15 @@
 
 {
     "type": "origins:active_self",
-    "name": "Horus blessing",
-    "description": "Your End corruption twists the space itself. Only works under the sky.",
-    "cooldown": 1,
+    "name": "Благославление Хоруса",
+    "description": "Мир отторгает сильных искаженных. Им доступна случайная телепортация.",
+    "cooldown": 600,
     "entity_action": {
         "type": "origins:execute_command",
         "command": "execute run function orudo_origins:start"
         
     },
-    "condition": {"type": "apoli:exposed_to_sky"},
+    "condition": {"type": "origins:exposed_to_sky"},
     "hud_render": {
         "sprite_location": "origins:textures/gui/resource_bar.png",
         "bar_index": 6
