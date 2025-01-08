@@ -1,7 +1,7 @@
 {
 	"name":"Человек",
 	"loading_priority": 1,
-	"powers": ["orudo_origins:weak_magic", "orudo_origins:more_reach","orudo_origins:prot3tooltip","orudo_origins:bubble_pearltooltip","orudo_origins:icy_pearltooltip","orudo_origins:no_icy_pearl","orudo_origins:no_bubble_pearl"],
+	"powers": ["orudo_origins:weak_magic", "orudo_origins:more_reach","orudo_origins:prot3tooltip","orudo_origins:extra_pearltooltip","orudo_origins:no_extra_pearls"],
 	"icon": "minecraft:player_head",
   "description": "Потомок борцов за освобождение мира от гнёта Энда.",
 	"order": 0,

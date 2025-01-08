@@ -4,7 +4,7 @@
   "item_condition": {
       "type": "origins:ingredient",
       "ingredient": {
-        "item": "endermanoverhaul:icy_pearl"
+        "tag": "orudo_origins_evolve:extra_pearls"
     }
   },
   "text":{"text":"Я не хочу использовать эту гадость.",

@@ -1,0 +1,10 @@
+{
+	"name":"Человек Аметиста",
+	"loading_priority": 1,
+	"powers": ["orudo_origins:weak_magic", "orudo_origins:more_reach","orudo_origins:prot3tooltip", "orudo_origins_evolve:human_less_hp"],
+	"icon": "minecraft:amethyst_block",
+  "description": "Человек, совсем недавно переживший воздействие аметиста.",
+	"order": 0,
+	"impact": 3,
+	"unchoosable": false
+}

@@ -1,0 +1,11 @@
+{
+  "name":"Кристаллизация",
+  "description":"Ваши руки уже недостаточно ловкие для использования дальнобойных оружий.",
+    "type": "origins:prevent_item_use",
+    "item_condition": {
+      "type": "origins:ingredient",
+      "ingredient": {
+        "tag": "orudo_origins_evolve:ranged"
+      }
+    }
+}

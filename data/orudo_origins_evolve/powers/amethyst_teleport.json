@@ -1,0 +1,43 @@
+
+{
+  "type": "origins:active_self",
+  "name": "Благославление Аметиста",
+  "description": "Аметист занимает все твои мысли.",
+  "cooldown": 500,
+  "entity_action": {
+    "type": "origins:apply_effect",
+    "effects": [
+        {
+            "effect": "vinery:teleport",
+            "duration": 2,
+            "is_ambient": true,
+            "show_particles": false,
+            "show_icon": false
+        },
+        {
+            "effect": "minecraft:levitation",
+            "duration": 40,
+            "amplifier": 0,
+            "is_ambient": false,
+            "show_particles": false,
+            "show_icon": true
+        },
+        {
+            "effect": "brewery:drunk",
+            "duration": 400,
+            "amplifier": 2,
+            "is_ambient": false,
+            "show_particles": false,
+            "show_icon": true
+        }
+    ]
+},
+"hud_render": {
+        "sprite_location": "origins:textures/gui/resource_bar.png",
+        "bar_index": 6
+    },
+  "key": {
+      "key": "key.origins.primary_active",
+      "continuous": false
+  }
+}

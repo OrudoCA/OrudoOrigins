@@ -1,0 +1,11 @@
+{
+  "name":"Аметистовые Мутации",
+  "description":"Аметист пагубно влияет на ваше здоровье, тело еле выдерживает такую силу.",
+  "type": "origins:attribute",
+  "modifier": {
+    "name": "Fragile health reduction",
+    "attribute": "minecraft:generic.max_health",
+    "value": -4.0,
+    "operation": "addition"
+  }
+}

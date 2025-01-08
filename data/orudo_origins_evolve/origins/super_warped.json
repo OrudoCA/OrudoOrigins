@@ -1,0 +1,10 @@
+{
+	"name":"Искаженный Аметиста",
+	"loading_priority": 1,
+	"powers": ["orudo_origins_evolve:no_villagers","orudo_origins_evolve:amethyst_teleport", "orudo_origins_evolve:less_hp", "orudo_origins:stronger_magic","orudo_origins:prot4tooltip","orudo_origins_evolve:no_ranged","orudo_origins_evolve:ranged_tooltip"],
+	"icon": "minecraft:budding_amethyst",
+  "description": "Искаженный, принявший силу аметиста.",
+	"order": 1,
+	"impact": 3,
+	"unchoosable": false
+}

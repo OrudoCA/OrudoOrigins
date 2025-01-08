@@ -4,7 +4,9 @@
   "enabled": true,
   "origins": [
     "orudo_origins:evolved_human",
-    "orudo_origins:warped_human"
+    "orudo_origins:warped_human",
+    "orudo_origins_evolve:super_warped",
+    "orudo_origins_evolve:super_human"
   ],
   "allow_random": false,
   "allow_random_unchoosable": false,

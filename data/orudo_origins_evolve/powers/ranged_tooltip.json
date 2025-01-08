@@ -1,0 +1,12 @@
+{
+  "type": "origins:tooltip",
+  "hidden": true,
+  "item_condition": {
+      "type": "origins:ingredient",
+      "ingredient": {
+        "tag": "orudo_origins_evolve:ranged"
+      }
+  },
+  "text": {"text":"Я не могу это использовать.",
+  "color": "red"}
+}
